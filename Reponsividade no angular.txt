@@ -1,0 +1,10 @@
+#Instale o flex-box
+(https://tburleson-layouts-demos.firebaseapp.com/#/docs)
+
+1. Entre na aplicação
+2. No terminal digite para instalar: npm install @angular/flex-layout
+3. Declare o módulo e o import, dentro da pasta "app.module.ts"
+
+Module: import { FlexLayoutModule } from '@angular/flex-layout';
+
+Import: FlexLayoutModule 

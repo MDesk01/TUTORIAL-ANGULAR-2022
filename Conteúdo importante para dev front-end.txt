@@ -1,0 +1,14 @@
+Sites úteis:
+Angular Material(Material próprio do Angular):https://material.angular.io/
+PrimeNG(Material Compatível com Angular): https://www.primefaces.org/primeng/
+NG Bootstrap(Bootstrap para Angular): https://ng-bootstrap.github.io/#/home
+RatioBuddy(CSS responsivos para botões): https://ratiobuddy.com/
+Whats Color?(procura a cor desejada): https://chir.ag/projects/name-that-color/#6195ED
+TinyPNG(compressão de imagens sem perder qualidade): https://tinypng.com/
+Responsive Break(gera os atributos para uma imagem responsiva): https://www.responsivebreakpoints.com/
+Template de Sites: https://w3layouts.com/
+Ivy Material: http://ivylab.space/
+Nebular: https://akveo.github.io/nebular/
+Flex-Layout: https://tburleson-layouts-demos.firebaseapp.com/#/docs
+EXTRA: Construtor de sites e apps mobiles: http://www.webtayfa.com/
+NGX Bootstrap: https://valor-software.com/ngx-bootstrap/#/
